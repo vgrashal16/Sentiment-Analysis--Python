@@ -15,6 +15,6 @@ pip install pandas<br/>
 pip installmatplotlib<br/>
 pip install tensorflow<br/>
 <br/>
-Execute "Sentiment Analysis.py" in vscode<br/>
+Execute "Sentiment Analysis.py" in vscode<br/><br/>
 Contributing<br/>
 Contributions to the sentiment analysis program are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request. Let's make this program better together.
