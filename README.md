@@ -3,7 +3,7 @@ This repository contains a sentiment analysis program that analyzes the sentimen
 <br/><br/>
 Introduction <br/>
 Sentiment analysis, also known as opinion mining, is the process of determining the emotional tone behind a piece of text. It is widely used in various applications, such as social media monitoring, customer feedback analysis, and market research.
-This sentiment analysis program uses a pre-trained model to classify text into positive, negative, or neutral sentiment. The model has been trained on a large corpus of labeled data to learn the patterns and characteristics of different sentiments.
+This sentiment analysis program uses a pre-trained model to classify text into positive, negative. The model has been trained on a large corpus of labeled data to learn the patterns and characteristics of different sentiments.
 <br/><br/>
 Features<br/>
 Sentiment classification: Analyze the sentiment of input text and classify it as positive, negative. <br/>
