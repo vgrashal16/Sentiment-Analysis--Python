@@ -1,5 +1,5 @@
 # Sentiment-Analysis--Python
-This repository contains a sentiment analysis program that analyzes the sentiment (positive, negative, or neutral) of text data. It utilizes natural language processing techniques and machine learning algorithms to determine the sentiment of textual input.
+This repository contains a sentiment analysis program that analyzes the sentiment (positive, negative) of text data. It utilizes natural language processing techniques and machine learning algorithms to determine the sentiment of textual input.
 <br/><br/>
 Introduction <br/>
 Sentiment analysis, also known as opinion mining, is the process of determining the emotional tone behind a piece of text. It is widely used in various applications, such as social media monitoring, customer feedback analysis, and market research.
